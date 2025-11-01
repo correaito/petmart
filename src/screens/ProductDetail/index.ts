@@ -1,0 +1,2 @@
+export { ProductDetailScreen } from './ProductDetailScreen';
+
