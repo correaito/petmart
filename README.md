@@ -1,6 +1,6 @@
-# 🐾 Pet Shop App
+# 🐾 PetMart
 
-Aplicativo React Native para um Pet Shop, desenvolvido com Expo e TypeScript. Este é um **protótipo funcional** que demonstra as principais funcionalidades de um e-commerce de produtos e serviços para pets.
+Aplicativo React Native para Pet Shop, desenvolvido com Expo e TypeScript. Este é um **protótipo funcional** que demonstra as principais funcionalidades de um e-commerce de produtos e serviços para pets.
 
 ## 🔐 Credenciais de Acesso
 

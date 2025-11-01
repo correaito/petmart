@@ -65,7 +65,7 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({ onLoginSuccess }) => {
         <View style={styles.header}>
           <View style={styles.logoContainer}>
             <Ionicons name="paw" size={48} color={colors.primary} />
-            <Text style={styles.logoText}>PetShop</Text>
+            <Text style={styles.logoText}>PetMart</Text>
           </View>
           <Text style={styles.welcomeTitle}>Bem-vindo de volta!</Text>
           <Text style={styles.welcomeSubtitle}>Que bom te ver!</Text>
